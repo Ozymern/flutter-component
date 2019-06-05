@@ -1,0 +1,44 @@
+{
+    "nameApp" : "Flutter Componentes",
+    "routes" : [
+        {
+            "routes" : "alert",
+            "icon" : "add_alert",
+            "text": "Alertas"
+        },
+        {
+            "routes" : "avatar",
+            "icon" : "accessibility",
+            "text": "Avatars"
+        },
+        {
+            "routes" : "card",
+            "icon" : "folder_open",
+            "text": "Cards - Tarjetas"
+        },
+        {
+            "routes" : "animatedContainer",
+            "icon" : "donut_large",
+            "text": "Animated Container"
+        }
+        ,
+        {
+            "routes" : "inputs",
+            "icon" : "input",
+            "text": "inputs"
+        }
+    ,
+        {
+            "routes" : "slider",
+            "icon" : "tune",
+            "text": "Sliders"
+        }
+    ,
+        {
+            "routes" : "list",
+            "icon" : "list",
+            "text": "Listas y Scroll"
+        }
+
+    ]
+}
